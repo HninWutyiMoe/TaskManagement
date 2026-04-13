@@ -17,7 +17,8 @@
 - Swagger (OpenAPI)
 
 - # Project Structure
-TaskManagementAPI/
+TaskManagementAPI_folder/
+│── TaskManagement/
 │── Controllers/
 │── BAL Services/
 │── Repositories/
